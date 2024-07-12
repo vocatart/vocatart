@@ -1,3 +1,3 @@
 vocal synthesis programmer and developer. i also write music :)
 
-[![vocatarts's GitHub stats](https://github-readme-stats.vercel.app/api?username=vocatart)](https://github.com/anuraghazra/github-readme-stats)
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vocatart&layout=compact&show_icons=true&theme=github_dark_dimmed&border_radius=4)
